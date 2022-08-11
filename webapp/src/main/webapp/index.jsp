@@ -4,7 +4,9 @@
     <p> 3 Please fill in this form to create an account pierwszy push i budowa obrazu na docker hub  :)</p>
     <hr>
 
-    <a href="http://3.137.97.10:8080/">....................................JENKINS</a> 
+    <a href="http://3.137.97.10:8080/">....................................JENKINS</a>
+    <hr>
+    <hr>
 	
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
