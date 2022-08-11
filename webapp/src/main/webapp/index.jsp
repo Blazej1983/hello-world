@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>siemanko Please fill in this form to create an account pierwszy push i budowa obrazu na docker hub  :)</p>
+    <p>siemanko  2  2 Please fill in this form to create an account pierwszy push i budowa obrazu na docker hub  :)</p>
     <hr>
 	
     <label for="email"><b>Email</b></label>
