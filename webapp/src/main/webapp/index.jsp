@@ -1,8 +1,10 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>siemanko  2  2 Please fill in this form to create an account pierwszy push i budowa obrazu na docker hub  :)</p>
+    <p> 3 Please fill in this form to create an account pierwszy push i budowa obrazu na docker hub  :)</p>
     <hr>
+
+    <a href="http://3.137.97.10:8080/">JENKINS</a> 
 	
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
