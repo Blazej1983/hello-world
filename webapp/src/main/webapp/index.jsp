@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p> 3 Please fill in this form to create an account pierwszy push i budowa obrazu na docker hub  :)</p>
+    <p> Please fill in this form to create an account pierwszy push i budowa obrazu na docker hub  :)</p>
     <hr>
 
     <a href="http://3.137.97.10:8080/">....................................JENKINS</a>
