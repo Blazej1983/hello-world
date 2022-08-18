@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p> KUBERNETES !!! Pierwszy push i budowa obrazu na docker hub  :)</p>
+    <p> KUBERNETES !!! </p>
     <hr>
 
     <a href="http://3.137.97.10:8080/">....................................JENKINS</a>
