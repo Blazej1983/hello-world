@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>TEST :)iiii kurs z udemy https://www.udemy.com/course/valaxy-devops/learn/lecture/29982444#content </h1>
-    <p>KUBEK !!!!! </p>
+    <h1>https://www.udemy.com/course/valaxy-devops/learn/lecture/29982444#content </h1>
+    <p>ajjjj</p>
     <hr>
 
     <a href="http://3.137.97.10:8080/">....................................JENKINS</a>
